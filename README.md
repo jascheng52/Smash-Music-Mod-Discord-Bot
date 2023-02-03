@@ -1,5 +1,5 @@
 # Smash-Music-Mod-Discord-Bot
-Converts youtube links from a Discord Channel to nu3audio files which are compatible with the Nintendo Switch for Smash Bros Ultimate
+Converts youtube links from a Discord Channel to nu3audio files which are compatible with the Nintendo Switch for Smash Bros Ultimate. The mp3s of the videos are also saved
 
 # Libraries
 1. Nextcord  (Discord Bot)
@@ -12,4 +12,6 @@ https://gamebanana.com/tools/8181
  Place the nus3audio_converter folder in the same directory as this directory \
  
  In Parameters.py, place the channel id of the discord channel you want to download from and the token id for the bot
+ 
+ 
 
