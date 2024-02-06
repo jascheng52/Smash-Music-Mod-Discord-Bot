@@ -127,4 +127,4 @@ def Run_Bot(token,channel_id,date,server,botExcept):
 #     Run_Bot('')
 # except Exception:
 #     print('failed run')
-# Run_Bot('MTAwNjMxMjA2NTI3Njg0MjE5NA.G1jtZx.macCJwbOm3je-BS-BBBz6Vx6uE8-a0SUSHdsuo')
+# Run_Bot('')
