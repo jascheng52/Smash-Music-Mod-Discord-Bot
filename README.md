@@ -6,12 +6,20 @@ Converts youtube links from a Discord Channel to nu3audio files which are compat
 2. Peadalboard (Audio Adjustments)
 3. YT-DLP (Download Youtube mp3s)
 4. Unidecode (Handle invalid characters)
+5. pykakasi
 
 # Required
 https://gamebanana.com/tools/8181
- Place the nus3audio_converter folder in the same directory as this directory \
+Place the nus3audio_converter folder in the same directory as /src \
+Requires ffmpeg https://ffmpeg.org/download.html and is added as an environment variable correctly \
+Requires python 3 and is added as an environment variable correctly \
  
- In Parameters.py, place the channel id of the discord channel you want to download from and the token id for the bot
- 
- 
+# Theme
+ I included the theme used for the GUI from 
+ https://github.com/rdbende/Azure-ttk-theme
+
+# How to Use
+ Make sure you follow the requirements \ 
+ Double click the runBot.bat file and it will install all the python libraries and launch the GUI
+    
 
