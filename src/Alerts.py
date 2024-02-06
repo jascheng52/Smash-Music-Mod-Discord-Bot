@@ -1,0 +1,6 @@
+class Alerts():
+    WARNING = 'WARNING:'
+    DOWNLOADED = 'DOWNLOADED:'
+    COMPRESSED = 'COMPRESSED:'
+    ERROR= "ERROR:"
+    DONE = "DONE"
